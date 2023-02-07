@@ -6,16 +6,11 @@
   return result;  
 }
 
-int a1 = 22;
-int b1 = 123;
-int c1 = 13;
-int a2 = 21;
-int b2 = 1345;
-int c2 = 65;
-int a3 = 3;
-int b3 = 12;
-int c3 = 60933;
+int [] array = {11,21,31,45,555,4343,545,5455,12};
 
-int max = Max(Max(a1,b1,c1), Max(a2,b2,c2), Max(a3,b3,c3));
+int max = Max(
+    Max(array[0],array[1],array[2]), 
+    Max(array[3],array[4],array[5]), 
+    Max(array[6],array[7],array[8]));
 Console.WriteLine(max);
  
