@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\lessionKama2\secondArr\bin\Debug\net7.0\secondArr.exe
+C:\Users\Админ\Desktop\lessionKama2\secondArr\bin\Debug\net7.0\secondArr.deps.json
+C:\Users\Админ\Desktop\lessionKama2\secondArr\bin\Debug\net7.0\secondArr.runtimeconfig.json
+C:\Users\Админ\Desktop\lessionKama2\secondArr\bin\Debug\net7.0\secondArr.dll
+C:\Users\Админ\Desktop\lessionKama2\secondArr\bin\Debug\net7.0\secondArr.pdb
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.AssemblyInfo.cs
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.dll
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\refint\secondArr.dll
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.pdb
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\secondArr.genruntimeconfig.cache
+C:\Users\Админ\Desktop\lessionKama2\secondArr\obj\Debug\net7.0\ref\secondArr.dll
